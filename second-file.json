@@ -2,7 +2,7 @@
   "project": "meysamTest",
   "file": "second-file.json",
   "version": "1.0.0",
-  "description": "A simple JSON example",
+  "description": "An advanced JSON example",
   "authors": ["Meysam"],
   "created": "2025-11-30",
   "settings": {
